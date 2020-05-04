@@ -17,13 +17,13 @@ public class TaskTest implements Runnable {
     @Override
     public void run() {
 
-        System.out.println("第" + startedNum + "次说：" + "我爱潘圈圈");
+        System.out.println("第" + startedNum + "次说：" + "hello～～");
         try {
             Thread.sleep(5);
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
-
+        System.out.println("第" + startedNum + "次说：" + "hello～～完成");
 
     }
 }
