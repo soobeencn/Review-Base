@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aef3e795-bfd6-4f56-85fa-162f1aa60a5d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_4_0.xml" afterDir="false" />
@@ -67,45 +65,40 @@
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_2_RELEASE.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_2.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pwnpub/adv/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pwnpub/algorithm/SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pwnpub/algorithm/SelectionSort_ex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pwnpub/designpattern/CodingTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pwnpub/designpattern/LoggingRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pwnpub/lang/MemoryModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/pwnpub/adv/ExecutorTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/pwnpub/adv/TaskTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/pwnpub/adv/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/pwnpub/algorithm/SelectionSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/pwnpub/algorithm/SelectionSort_ex.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/pwnpub/demo/BoxingDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/pwnpub/demo/MathInduction.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/pwnpub/designpattern/CodingTask.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/pwnpub/designpattern/LoggingRunnable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/pwnpub/lang/MemoryModel$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/pwnpub/lang/MemoryModel$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/pwnpub/lang/MemoryModel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/pwnpub/loop/BinarySearch.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/pwnpub/loop/LinkedListLoop.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/pwnpub/oop/company/Employee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/pwnpub/oop/company/Manager.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/pwnpub/oop/linkedlist/LinkedList$ListIterator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/pwnpub/oop/linkedlist/LinkedList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/pwnpub/oop/linkedlist/Tester.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/pwnpub/recursion/Combinations.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/pwnpub/recursion/LinkedListCreator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/pwnpub/recursion/LinkedListReverser.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/pwnpub/recursion/Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/pwnpub/review/ReviewApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/pwnpub/review/ReviewApplicationTests.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Review-Base.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Review-Base.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/pwnpub/adv/ExecutorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pwnpub/adv/ExecutorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/pwnpub/adv/TaskTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pwnpub/adv/TaskTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pwnpub/algorithm/LikedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pwnpub/algorithm/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pwnpub/algorithm/Zchange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pwnpub/base/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pwnpub/selfpractice/List.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pwnpub/algorithm/SelectionSort_ex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pwnpub/algorithm/SelectionSort_ex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/pwnpub/review/ReviewApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/pwnpub/review/ReviewApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/adv/ExecutorTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/adv/TaskTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/adv/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/algorithm/SelectionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/algorithm/SelectionSort_ex.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/demo/BoxingDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/demo/MathInduction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/designpattern/CodingTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/designpattern/LoggingRunnable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/lang/MemoryModel$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/lang/MemoryModel$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/lang/MemoryModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/loop/BinarySearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/loop/LinkedListLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/oop/company/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/oop/company/Manager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/oop/linkedlist/LinkedList$ListIterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/oop/linkedlist/LinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/oop/linkedlist/Tester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/recursion/Combinations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/recursion/LinkedListCreator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/recursion/LinkedListReverser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/recursion/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/review/ReviewApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/pwnpub/review/ReviewApplicationTests.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -121,39 +114,43 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/pwnpub/designpattern/LoggingRunnable.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/pwnpub/algorithm/SelectionSort_ex.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/pwnpub/algorithm/SelectionSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
-              <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+            <state relative-caret-position="381">
+              <caret line="55" selection-start-line="55" selection-end-line="55" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/pwnpub/algorithm/SelectionSort_ex.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/pwnpub/review/ReviewApplicationTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="576">
-              <caret line="32" column="31" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
+            <state relative-caret-position="288">
+              <caret line="21" column="42" lean-forward="true" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/pwnpub/adv/ExecutorTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/pwnpub/selfpractice/List.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="24" column="63" selection-start-line="24" selection-start-column="63" selection-end-line="24" selection-end-column="63" />
+            <state relative-caret-position="141">
+              <caret line="88" column="23" selection-start-line="88" selection-start-column="23" selection-end-line="88" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/HashSet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="104" column="11" selection-start-line="104" selection-start-column="11" selection-end-line="104" selection-end-column="11" />
+              <folding>
+                <element signature="e#3740#3741#0" expanded="true" />
+                <element signature="e#3777#3778#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -169,50 +166,53 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/pwnpub/adv/TaskTest.java">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="25" column="60" selection-start-line="25" selection-start-column="60" selection-end-line="25" selection-end-column="60" />
+            <state relative-caret-position="505">
+              <caret line="822" column="11" selection-start-line="822" selection-start-column="11" selection-end-line="822" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/ThreadLocal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="846">
+              <caret line="73" column="13" selection-start-line="73" selection-start-column="13" selection-end-line="73" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/pwnpub/algorithm/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="249">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
               <folding>
-                <element signature="e#212#213#0" expanded="true" />
-                <element signature="e#256#257#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/pwnpub/adv/Test.java">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+            <state relative-caret-position="16848">
+              <caret line="990" column="62" selection-start-line="990" selection-start-column="62" selection-end-line="990" selection-end-column="62" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/pwnpub/designpattern/CodingTask.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/pwnpub/algorithm/LikedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/pwnpub/demo/BoxingDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/pwnpub/demo/MathInduction.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+            <state relative-caret-position="144">
+              <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+              <folding>
+                <element signature="e#346#347#0" expanded="true" />
+                <element signature="e#383#384#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -240,9 +240,16 @@
         <option value="$PROJECT_DIR$/src/main/java/com/pwnpub/socket/test_01.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pwnpub/loop/LinkedListLoop.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pwnpub/lang/MemoryModel.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/pwnpub/algorithm/SelectionSort.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/pwnpub/algorithm/SelectionSort_ex.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pwnpub/adv/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pwnpub/algorithm/SelectionSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pwnpub/algorithm/Zchange.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pwnpub/base/ConstructorMethod.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pwnpub/base/Person.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pwnpub/algorithm/LikedList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pwnpub/selfpractice/List.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pwnpub/algorithm/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pwnpub/algorithm/SelectionSort_ex.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/pwnpub/review/ReviewApplicationTests.java" />
       </list>
     </option>
   </component>
@@ -278,8 +285,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -329,7 +336,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="pwnpub" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Review-Base" type="b2602c69:ProjectViewProjectNode" />
@@ -345,12 +352,37 @@
               <item name="Review-Base" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pwnpub" type="462c0819:PsiDirectoryNode" />
+              <item name="selfpractice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Review-Base" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Review-Base" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Review-Base" type="b2602c69:ProjectViewProjectNode" />
               <item name="Review-Base" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Review-Base" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Review-Base" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Review-Base" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Review-Base" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="review" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -369,7 +401,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -383,13 +415,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SelectionSort_ex">
-    <configuration name="Combinations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.pwnpub.recursion.Combinations" />
+  <component name="RunManager" selected="JUnit.ReviewApplicationTests.contextLoads">
+    <configuration name="List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pwnpub.selfpractice.List" />
       <module name="Review-Base" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.pwnpub.recursion.*" />
+          <option name="PATTERN" value="com.pwnpub.selfpractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -397,12 +429,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedListCreator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.pwnpub.recursion.LinkedListCreator" />
+    <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pwnpub.base.Person" />
       <module name="Review-Base" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.pwnpub.recursion.*" />
+          <option name="PATTERN" value="com.pwnpub.base.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -410,8 +442,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.pwnpub.algorithm.SelectionSort" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pwnpub.algorithm.Solution" />
       <module name="Review-Base" />
       <extension name="coverage">
         <pattern>
@@ -423,28 +455,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SelectionSort_ex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.pwnpub.algorithm.SelectionSort_ex" />
+    <configuration name="ReviewApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Review-Base" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.pwnpub.algorithm.*" />
+          <option name="PATTERN" value="com.pwnpub.review.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.pwnpub.review" />
+      <option name="MAIN_CLASS_NAME" value="com.pwnpub.review.ReviewApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.pwnpub.socket.test_01" />
+    <configuration name="ReviewApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Review-Base" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.pwnpub.socket.*" />
+          <option name="PATTERN" value="com.pwnpub.review.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.pwnpub.review" />
+      <option name="MAIN_CLASS_NAME" value="com.pwnpub.review.ReviewApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -458,11 +495,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SelectionSort_ex" />
-        <item itemvalue="Application.SelectionSort" />
-        <item itemvalue="Application.LinkedListCreator" />
-        <item itemvalue="Application.Combinations" />
-        <item itemvalue="Application.test_01" />
+        <item itemvalue="JUnit.ReviewApplicationTests.contextLoads" />
+        <item itemvalue="JUnit.ReviewApplicationTests" />
+        <item itemvalue="Application.List" />
+        <item itemvalue="Application.Person" />
+        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -492,7 +529,12 @@
       <workItem from="1582560915903" duration="832000" />
       <workItem from="1585299798440" duration="11485000" />
       <workItem from="1586359924411" duration="112000" />
-      <workItem from="1587265632676" duration="2713000" />
+      <workItem from="1587265632676" duration="4240000" />
+      <workItem from="1591164436897" duration="563000" />
+      <workItem from="1591791615278" duration="21386000" />
+      <workItem from="1595843604393" duration="69000" />
+      <workItem from="1596101245400" duration="1837000" />
+      <workItem from="1596782973081" duration="8870000" />
     </task>
     <task id="LOCAL-00001" summary="回顾Java基础-硬核">
       <created>1556812383705</created>
@@ -501,16 +543,37 @@
       <option name="project" value="LOCAL" />
       <updated>1556812383705</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="添加内容">
+      <created>1588605657674</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1588605657674</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="ReviewApplicationTests - 2020.08.23 at 19h 51m 05s.xml">
+      <configuration name="ReviewApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReviewApplicationTests_contextLoads - 2020.08.23 at 19h 51m 58s.xml">
+      <configuration name="ReviewApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReviewApplicationTests_contextLoads - 2020.08.23 at 19h 52m 15s.xml">
+      <configuration name="ReviewApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReviewApplicationTests_contextLoads - 2020.08.23 at 19h 53m 40s.xml">
+      <configuration name="ReviewApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36334000" />
+    <option name="totallyTimeSpent" value="70586000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22174536" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20171674" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -518,81 +581,50 @@
       <window_info id="Web" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32891566" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3048193" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2313253" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3192771" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.17831326" />
       <window_info anchor="bottom" id="Spring" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32891566" />
       <window_info anchor="bottom" id="Java Enterprise" order="13" />
       <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" id="Bean Validation" order="5" />
-      <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Maven Projects" order="7" weight="0.22103004" />
-      <window_info anchor="right" id="Maven" order="8" />
+      <window_info anchor="bottom" id="Inspection Results" order="15" weight="0.329927" />
+      <window_info anchor="right" id="Coverage" order="0" side_tool="true" weight="0.3297568" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Bean Validation" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.22103004" />
+      <window_info anchor="right" id="Maven" order="9" visible="true" weight="0.22031474" />
     </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2160229" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="UI Designer" order="3" />
-      <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info id="Web" order="5" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32891566" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.5072289" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Spring" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" />
-      <window_info anchor="bottom" id="Java Enterprise" order="13" />
-      <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" id="Bean Validation" order="5" />
-      <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Maven Projects" order="7" weight="0.22103004" />
-      <window_info anchor="right" id="Maven" order="8" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="回顾Java基础-硬核" />
-    <option name="LAST_COMMIT_MESSAGE" value="回顾Java基础-硬核" />
+    <MESSAGE value="添加内容" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加内容" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Review_Base$Zchange.ic" NAME="Zchange Coverage Results" MODIFIED="1594225892940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.pwnpub.algorithm.*</FILTER>
+    </SUITE>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="3159" column="36" lean-forward="true" selection-start-line="3159" selection-start-column="36" selection-end-line="3159" selection-end-column="36" />
         </state>
       </provider>
     </entry>
@@ -607,13 +639,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pwnpub/recursion/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -632,13 +657,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/pwnpub/socket/test_01.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pwnpub/recursion/Combinations.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
-          <caret line="50" column="26" selection-start-line="50" selection-start-column="26" selection-end-line="50" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/pwnpub/loop/BinarySearch.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -676,18 +694,208 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/pwnpub/designpattern/LoggingRunnable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="162">
+          <caret line="9" column="31" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pwnpub/adv/ExecutorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="24" column="63" selection-start-line="24" selection-start-column="63" selection-end-line="24" selection-end-column="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/pwnpub/adv/TaskTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="25" column="60" selection-start-line="25" selection-start-column="60" selection-end-line="25" selection-end-column="60" />
+        <state relative-caret-position="252">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
           <folding>
             <element signature="e#212#213#0" expanded="true" />
             <element signature="e#256#257#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pwnpub/adv/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pwnpub/demo/BoxingDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pwnpub/demo/MathInduction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pwnpub/algorithm/SelectionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/AbstractMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="67" column="22" selection-start-line="67" selection-start-column="22" selection-end-line="67" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/TreeMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="111" column="20" lean-forward="true" selection-start-line="111" selection-start-column="20" selection-end-line="111" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pwnpub/recursion/Combinations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="50" column="26" selection-start-line="50" selection-start-column="26" selection-end-line="50" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pwnpub/designpattern/CodingTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/Iterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="69" column="6" selection-start-line="69" selection-start-column="6" selection-end-line="69" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1781">
+          <caret line="969" column="25" selection-start-line="969" selection-start-column="25" selection-end-line="969" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pwnpub/recursion/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pwnpub/algorithm/Zchange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="59" selection-start-line="21" selection-start-column="59" selection-end-line="21" selection-end-column="59" />
+          <folding>
+            <element signature="e#1116#1117#0" expanded="true" />
+            <element signature="e#1180#1181#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pwnpub/base/ConstructorMethod.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="664">
+          <caret line="114" column="41" selection-start-line="114" selection-start-column="41" selection-end-line="114" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/Hashtable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="456" column="26" selection-start-line="456" selection-start-column="26" selection-end-line="456" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="1924" column="18" selection-start-line="1924" selection-start-column="18" selection-end-line="1924" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pwnpub/base/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="666">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#244#245#0" expanded="true" />
+            <element signature="e#275#276#0" expanded="true" />
+            <element signature="e#168#169#0" expanded="true" />
+            <element signature="e#236#237#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16848">
+          <caret line="990" column="62" selection-start-line="990" selection-start-column="62" selection-end-line="990" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pwnpub/algorithm/LikedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+          <folding>
+            <element signature="e#346#347#0" expanded="true" />
+            <element signature="e#383#384#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pwnpub/selfpractice/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="88" column="23" selection-start-line="88" selection-start-column="23" selection-end-line="88" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/HashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="104" column="11" selection-start-line="104" selection-start-column="11" selection-end-line="104" selection-end-column="11" />
+          <folding>
+            <element signature="e#3740#3741#0" expanded="true" />
+            <element signature="e#3777#3778#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/ThreadLocal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="846">
+          <caret line="73" column="13" selection-start-line="73" selection-start-column="13" selection-end-line="73" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pwnpub/algorithm/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -699,55 +907,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pwnpub/algorithm/SelectionSort.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pwnpub/demo/BoxingDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pwnpub/designpattern/CodingTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pwnpub/adv/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pwnpub/demo/MathInduction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pwnpub/adv/ExecutorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="24" column="63" selection-start-line="24" selection-start-column="63" selection-end-line="24" selection-end-column="63" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="505">
+          <caret line="822" column="11" selection-start-line="822" selection-start-column="11" selection-end-line="822" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/pwnpub/algorithm/SelectionSort_ex.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="32" column="31" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
+        <state relative-caret-position="381">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/pwnpub/review/ReviewApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="21" column="42" lean-forward="true" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
         </state>
       </provider>
     </entry>

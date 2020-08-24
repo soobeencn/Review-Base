@@ -1,7 +1,9 @@
 package com.pwnpub.algorithm;
 
+import java.util.ArrayList;
+
 /**
- * @author Giannis
+ * @author soobeencn
  * @date 2020-04-03 17:35
  * @desc
  */
@@ -38,7 +40,23 @@ public class SelectionSort_ex {
             System.out.print(arr[i]);
             System.out.print(' ');
         }
+
+
+        ArrayList<Integer> arrayList = new ArrayList<>();
+        arrayList.add(1);
+        arrayList.add(2);
+        arrayList.add(3);
+        arrayList.add(4);
+        arrayList.forEach(System.out::println);
+        for(Integer one : arrayList){
+            System.out.println(one);
+        }
+        System.out.println();
+
+
         System.out.println();
     }
+
+
 
 }
