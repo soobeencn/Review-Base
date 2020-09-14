@@ -1,11 +1,9 @@
 package com.pwnpub.selfpractice;
 
-import com.pwnpub.algorithm.LikedList;
-import com.pwnpub.algorithm.LikedList;
-
-import java.io.Console;
-import java.util.*;
-import java.util.concurrent.ConcurrentHashMap;
+import java.util.ArrayList;
+import java.util.HashSet;
+import java.util.Set;
+import java.util.TreeSet;
 
 /**
  * @author Giannis
@@ -89,6 +87,8 @@ public class List {
         hashSet.add(1);
 
         System.out.println(hashSet);
+
+
 
 
 

@@ -7,7 +7,6 @@ package com.pwnpub.designpattern;
  */
 public class CodingTask implements Runnable{
 
-
     @Override
     public void run() {
         System.out.println("Writing code..");
