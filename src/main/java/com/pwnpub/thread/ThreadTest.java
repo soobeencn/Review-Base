@@ -24,17 +24,9 @@ public class ThreadTest {
 
                 }
             }
-
             LockSupport.park();
         });
         thread.start();
-
     }
-
-    ConcurrentHashMap map = new ConcurrentHashMap();
-    ThreadLocal threadLocal = new ThreadLocal();
-
-
-
 
 }
