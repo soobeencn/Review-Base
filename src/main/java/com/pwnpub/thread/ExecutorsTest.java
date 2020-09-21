@@ -1,8 +1,5 @@
 package com.pwnpub.thread;
 
-import sun.jvm.hotspot.utilities.soql.Callable;
-
-import javax.script.ScriptException;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
@@ -13,7 +10,7 @@ import java.util.concurrent.Executors;
  */
 public class ExecutorsTest {
     public static void main(String[] args) {
-        ExecutorService pool = Executors.newFixedThreadPool(2);
+        ExecutorService pool = Executors.newFixedThreadPool(3);
         pool.submit(new Runnable() {
             @Override
             public void run() {
@@ -21,6 +18,5 @@ public class ExecutorsTest {
             }
         });
         pool.shutdown();
-
     }
 }

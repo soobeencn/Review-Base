@@ -1,9 +1,9 @@
 package com.pwnpub.designpattern.adapter;
 
 /**
- * @author: soobeenwong
- * @date: 2020/9/20 11:57 下午
- * @description:
+ * @author: soobeen
+ * @date:   2020/9/20 11:57 下午
+ * @desp:
  */
 public class Me extends Student{
     @Override
