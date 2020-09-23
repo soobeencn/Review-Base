@@ -15,11 +15,12 @@ public abstract class Student implements Person{
 
     @Override
     public void sleep() {
-
+        System.out.println("sleep: 1");
+        System.out.println("sleep: 2");
     }
 
     @Override
     public void study() {
-
+        System.out.println("study: 1");
     }
 }

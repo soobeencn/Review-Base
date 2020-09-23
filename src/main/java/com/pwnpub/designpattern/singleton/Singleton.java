@@ -1,4 +1,4 @@
-package com.pwnpub.designpattern;
+package com.pwnpub.designpattern.singleton;
 
 /**
  * @author: soobeenwong

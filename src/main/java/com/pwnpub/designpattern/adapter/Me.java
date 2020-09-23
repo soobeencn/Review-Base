@@ -8,6 +8,6 @@ package com.pwnpub.designpattern.adapter;
 public class Me extends Student{
     @Override
     public void eat() {
-        System.out.println("and 1");
+        System.out.println("and 4");
     }
 }
