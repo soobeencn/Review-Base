@@ -56,6 +56,7 @@ class CounterTask implements Runnable {
         this.barrier = barrier;
     }
 
+    @Override
     public void run() {
         System.out.println(Thread.currentThread().getName() + " - " + System.currentTimeMillis() + " is ready...");
         try {

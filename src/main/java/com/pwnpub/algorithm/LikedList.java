@@ -1,7 +1,5 @@
 package com.pwnpub.algorithm;
 
-import com.pwnpub.recursion.Node;
-
 /**
  * @author Giannis
  * @date 2020-07-13 22:21
@@ -13,8 +11,6 @@ public class LikedList<E> {
 
         E e;
         Node next;
-
-
 
         public Node(E e, Node next){
             this.e = e;

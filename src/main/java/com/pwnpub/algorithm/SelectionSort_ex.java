@@ -9,7 +9,9 @@ import java.util.ArrayList;
  */
 public class SelectionSort_ex {
 
-    // 我们的算法类不允许产生任何实例
+    /**
+     * 算法类不允许产生任何实例
+     */
     private SelectionSort_ex(){}
 
     public static void sort(int[] arr){
@@ -18,11 +20,12 @@ public class SelectionSort_ex {
         for( int i = 0 ; i < n ; i ++ ){
             // 寻找[i, n)区间里的最小值的索引
             int minIndex = i;
-            for( int j = i + 1 ; j < n ; j ++ )
-                if( arr[j] < arr[minIndex] )
+            for( int j = i + 1 ; j < n ; j ++ ) {
+                if (arr[j] < arr[minIndex]) {
                     minIndex = j;
-
-            swap( arr , i , minIndex);
+                }
+                swap(arr, i, minIndex);
+            }
         }
     }
 
