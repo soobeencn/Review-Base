@@ -10,9 +10,9 @@ public class SelectionSort {
     static void sort(int[] arr) {
 
         //arr中选择排序  [a,z]
-        for (int i = 0; i < arr.length ; i++) {
+        for (int i = 0; i < arr.length; i++) {
 
-            for (int j = 0; j < arr.length ; j++) {
+            for (int j = 0; j < arr.length; j++) {
 
 
             }

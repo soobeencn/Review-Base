@@ -5,7 +5,7 @@ package com.pwnpub.designpattern;
  * @date 2019-08-22 15:51
  * @desc 装饰设计模式
  */
-public class CodingTask implements Runnable{
+public class CodingTask implements Runnable {
 
     @Override
     public void run() {

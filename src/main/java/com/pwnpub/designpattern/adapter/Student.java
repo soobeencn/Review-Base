@@ -5,7 +5,7 @@ package com.pwnpub.designpattern.adapter;
  * @date: 2020/9/20 11:56 下午
  * @description:
  */
-public abstract class Student implements Person{
+public abstract class Student implements Person {
     @Override
     public void eat() {
         System.out.println("eat: 1");

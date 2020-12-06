@@ -26,15 +26,14 @@ public class List {
         System.out.println("此时集合的大小为" + list.size());
 
         for (int i = 0; i < list.size(); i++) {
-           if (list.get(i) == 5) {
+            if (list.get(i) == 5) {
                 list.remove(i);
-           }
+            }
         }
         System.out.println("此时集合大小为：" + list.size());
         for (int i = 0; i < list.size(); i++) {
             System.out.print(list.get(i) + " ");
         }
-
     }
 
 }

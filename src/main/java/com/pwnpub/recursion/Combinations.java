@@ -12,8 +12,9 @@ import java.util.List;
 public class Combinations {
 
     /**
-     *  Generates all combinations and output them,
-     *  selecting n elements from data
+     * Generates all combinations and output them,
+     * selecting n elements from data
+     *
      * @param data
      * @param n
      */
@@ -30,17 +31,17 @@ public class Combinations {
                 System.out.print(" ");
             }
             System.out.println();
-            return ;
+            return;
         }
 
         if (data.isEmpty()) {
-            return ;
+            return;
         }
 
 
         selected.add(data.get(0));
         //select element 0
-        combinations(selected, data.subList(1, data.size()), n-1);
+        combinations(selected, data.subList(1, data.size()), n - 1);
 
         selected.remove(selected.size() - 1);
         //un-select element 0

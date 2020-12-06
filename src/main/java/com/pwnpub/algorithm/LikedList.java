@@ -7,22 +7,22 @@ package com.pwnpub.algorithm;
  */
 public class LikedList<E> {
 
-    private class Node{
+    private class Node {
 
         E e;
         Node next;
 
-        public Node(E e, Node next){
+        public Node(E e, Node next) {
             this.e = e;
             this.next = next;
         }
 
-        public Node(E e){
+        public Node(E e) {
             this(e, null);
         }
 
-        public Node(){
-            this(null,null);
+        public Node() {
+            this(null, null);
         }
 
         @Override
@@ -30,9 +30,6 @@ public class LikedList<E> {
             return e.toString();
         }
     }
-
-
-
 
 
 }

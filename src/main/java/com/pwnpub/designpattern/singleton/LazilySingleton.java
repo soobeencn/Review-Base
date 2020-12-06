@@ -7,12 +7,22 @@ package com.pwnpub.designpattern.singleton;
  */
 public class LazilySingleton {
 
-    //1.私有构造函数
-    private LazilySingleton() {}
-    //2.声明一个本类的引用
+    /**
+     * 1.私有构造函数
+     */
+    private LazilySingleton() {
+    }
+
+    /**
+     * 2.声明一个本类的引用
+     */
     private static LazilySingleton singleton;
-    //3.对外提供公共的访问方法
-    public static synchronized LazilySingleton getInstance(){
+
+    /**
+     * 3.对外提供公共的访问方法
+     * @return
+     */
+    public static synchronized LazilySingleton getInstance() {
 
         if (singleton == null) {
             singleton = new LazilySingleton();

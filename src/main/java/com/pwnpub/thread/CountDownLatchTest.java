@@ -10,7 +10,7 @@ import java.util.concurrent.CountDownLatch;
 public class CountDownLatchTest {
 
     public static void main(String[] args) {
-
+        
         CountDownLatch latch = new CountDownLatch(5);
         LatchDemo demo = new LatchDemo(latch);
         long startTime = System.currentTimeMillis();
@@ -29,9 +29,11 @@ public class CountDownLatchTest {
 
 class LatchDemo implements Runnable {
     private CountDownLatch countDownLatch;
-    public LatchDemo(CountDownLatch countDownLatch){
+
+    public LatchDemo(CountDownLatch countDownLatch) {
         this.countDownLatch = countDownLatch;
     }
+
     /**
      * 有参构造
      */

@@ -5,9 +5,10 @@ package com.pwnpub.designpattern;
  * @date 2019-08-22 15:54
  * @desc
  */
-public abstract class LoggingRunnable implements Runnable{
+public abstract class LoggingRunnable implements Runnable {
 
     protected abstract void doRun();
+
     @Override
     public void run() {
         long startTime = System.currentTimeMillis();

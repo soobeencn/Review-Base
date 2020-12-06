@@ -10,7 +10,7 @@ import java.util.NoSuchElementException;
  * @date 2019-04-02 4:24 PM
  * @desc 链表-->实现Iterable接口
  */
-public class LinkedList implements Iterable<Integer>{
+public class LinkedList implements Iterable<Integer> {
 
     Node head;
     Node tail;
@@ -22,7 +22,7 @@ public class LinkedList implements Iterable<Integer>{
 
     public void add(int value) {
         Node node = new Node(value);
-        if (tail  != null) {
+        if (tail != null) {
             tail.setNext(node);
         } else {
             head = node;
@@ -46,7 +46,7 @@ public class LinkedList implements Iterable<Integer>{
                 return false;
             }
             return true;
-           // return currentNode != null;
+            // return currentNode != null;
         }
 
         @Override

@@ -11,11 +11,11 @@ public class MathInduction {
         System.out.println(sum(1));
     }
 
-    static int sum(int n){
+    static int sum(int n) {
         if (n == 1) {
             return 1;
         } else {
-            return sum(n-1) + n;
+            return sum(n - 1) + n;
         }
     }
 

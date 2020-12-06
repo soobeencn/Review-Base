@@ -13,7 +13,9 @@ public class Test {
 
         ArrayList list = new ArrayList();
 
-        System.out.println(Math.random()*1000);
+        System.out.println(Math.random() * 1000);
+
+
     }
 
 }

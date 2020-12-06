@@ -7,9 +7,9 @@ package com.pwnpub.lang;
  */
 public class MemoryModel {
 
-    int x,y,x_read,y_read;
+    int x, y, x_read, y_read;
 
-    Thread createThread_1(){
+    Thread createThread_1() {
         return new Thread(new Runnable() {
             @Override
             public void run() {
@@ -19,7 +19,7 @@ public class MemoryModel {
         });
     }
 
-    Thread createThread_2(){
+    Thread createThread_2() {
         return new Thread(new Runnable() {
             @Override
             public void run() {
@@ -28,10 +28,5 @@ public class MemoryModel {
             }
         });
     }
-
-
-
-
-
 
 }

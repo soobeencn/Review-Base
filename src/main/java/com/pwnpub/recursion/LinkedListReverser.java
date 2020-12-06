@@ -12,10 +12,11 @@ public class LinkedListReverser {
 
     /**
      * Reverse a linked list
+     *
      * @param head the linked list to reverse
      * @return head of the reversed linked list
      */
-    public Node reverseLinkedList(Node head){
+    public Node reverseLinkedList(Node head) {
 
         //size == 0 or size == 1
         if (head == null || head.getNext() == null) {
@@ -40,7 +41,7 @@ public class LinkedListReverser {
         Node.printLinkedList(reverser.reverseLinkedList(
                 creator.createLinkedList(Arrays.asList(1))));
         Node.printLinkedList(reverser.reverseLinkedList(
-                creator.createLinkedList(Arrays.asList(1,2,3,4,5))));
+                creator.createLinkedList(Arrays.asList(1, 2, 3, 4, 5))));
 
     }
 

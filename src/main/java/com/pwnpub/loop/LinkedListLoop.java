@@ -43,7 +43,7 @@ public class LinkedListLoop {
         Node.printLinkedList(reverser.reverseLinkedList(
                 creator.createLinkedList(Arrays.asList(1))));
         Node.printLinkedList(reverser.reverseLinkedList(
-                creator.createLinkedList(Arrays.asList(1,2,3,4,5))));
+                creator.createLinkedList(Arrays.asList(1, 2, 3, 4, 5))));
 
         reverser.reverseLinkedList(
                 creator.createLargeLinkedList(100000)
