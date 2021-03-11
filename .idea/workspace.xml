@@ -22,7 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aef3e795-bfd6-4f56-85fa-162f1aa60a5d" name="Default Changelist" comment="test">
+    <list default="true" id="aef3e795-bfd6-4f56-85fa-162f1aa60a5d" name="Default Changelist" comment="task:&#10;&#10;计数器">
       <change afterPath="$PROJECT_DIR$/src/main/java/com/pwnpub/casedemo/Conference.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/pwnpub/convert/ConvertUtil.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/pwnpub/juc/AtomicIntegerTask.java" afterDir="false" />
@@ -34,7 +34,6 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/com/pwnpub/thread/limit/SemaphoreServiceTask.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_4_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_3_2_0.xml" beforeDir="false" />
@@ -100,80 +99,14 @@
       <change beforePath="$PROJECT_DIR$/src/main/java/com/pwnpub/map/MapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pwnpub/map/MapTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/pwnpub/thread/SemaphoreDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pwnpub/thread/SemaphoreDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/META-INF/Review-Base.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/ReviewApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/adv/ExecutorTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/adv/TaskTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/adv/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/algorithm/LikedList$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/algorithm/LikedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/algorithm/SelectionSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/algorithm/SelectionSort_ex.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/algorithm/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/algorithm/Zchange.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/base/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/demo/BoxingDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/demo/MathInduction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/designpattern/CodingTask.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/designpattern/LoggingRunnable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/designpattern/adapter/Demo_Adapter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/designpattern/adapter/Me.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/designpattern/adapter/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/designpattern/adapter/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/designpattern/singleton/EarlySingleton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/designpattern/singleton/LazilySingleton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/designpattern/singleton/MySingleton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/designpattern/singleton/Singleton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/gui/FirstFrame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/key/ThreadLocalTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/lambda/dto/Course$1$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/lambda/dto/Course$1$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/lambda/dto/Course$1$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/lambda/dto/Course$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/lambda/dto/Course.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/lambda/dto/StudentDTO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/lang/MemoryModel$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/lang/MemoryModel$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/lang/MemoryModel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/list/ListDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/loop/BinarySearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/loop/LinkedListLoop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/map/MapTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/map/MapTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/oop/company/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/oop/company/Manager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/oop/linkedlist/LinkedList$ListIterator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/oop/linkedlist/LinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/oop/linkedlist/Tester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/pojo/BigEntity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/pojo/SmallEntity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/pojo/Transaction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/pojo/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/recursion/Combinations.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/recursion/LinkedListCreator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/recursion/LinkedListReverser.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/recursion/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/selfpractice/List.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/thread/CountDownLatchTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/thread/CounterTask.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/thread/ExecutorsTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/thread/ExecutorsTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/thread/LatchDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/thread/LatchTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/thread/LatchTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/thread/LockSupportDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/thread/LoopOutput.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/thread/SemaphoreDemo$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/thread/SemaphoreDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/thread/ThreadTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/algorithm/SelectionSort_ex.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pwnpub/algorithm/SelectionSort_ex.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/thread/SemaphoreDemo$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pwnpub/thread/SemaphoreDemo$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/thread/SemaphoreDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pwnpub/thread/SemaphoreDemo.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/thread/enum/State.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pwnpub/utils/HttpClientUtils.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.pwnpub.review.ReviewApplicationTests.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.pwnpub.review.ReviewApplicationTests.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/pwnpub/review/ReviewApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.pwnpub.review.ReviewApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.pwnpub.review.ReviewApplicationTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.pwnpub.review.ReviewApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.pwnpub.review.ReviewApplicationTests.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -401,7 +334,7 @@
       <workItem from="1610416640130" duration="7180000" />
       <workItem from="1610432201303" duration="3315000" />
       <workItem from="1614941681097" duration="544000" />
-      <workItem from="1615458498876" duration="1462000" />
+      <workItem from="1615458498876" duration="1854000" />
     </task>
     <task id="LOCAL-00001" summary="回顾Java基础-硬核">
       <created>1556812383705</created>
@@ -452,7 +385,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600876876421</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="task:&#10;&#10;计数器">
+      <created>1615460254178</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1615460254178</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -477,7 +417,8 @@
     <MESSAGE value="适配器模式" />
     <MESSAGE value="闭锁实现" />
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="task:&#10;&#10;计数器" />
+    <option name="LAST_COMMIT_MESSAGE" value="task:&#10;&#10;计数器" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
