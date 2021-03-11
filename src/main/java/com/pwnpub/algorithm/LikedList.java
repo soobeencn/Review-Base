@@ -30,6 +30,4 @@ public class LikedList<E> {
             return e.toString();
         }
     }
-
-
 }

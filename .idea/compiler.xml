@@ -9,7 +9,7 @@
         <module name="Review-Base" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
+    <bytecodeTargetLevel target="8">
       <module name="Review-Base" target="1.8" />
     </bytecodeTargetLevel>
   </component>
